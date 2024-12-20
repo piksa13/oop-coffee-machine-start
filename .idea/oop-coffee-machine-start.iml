@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Exercise Files" />
+    <orderEntry type="module" module-name="OOP_playground" />
+    <orderEntry type="module" module-name="Dunder Methods" />
+    <orderEntry type="module" module-name="sorting-algorithms" />
+    <orderEntry type="module" module-name="pytest_playground" />
+    <orderEntry type="module" module-name="appium-playground" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>

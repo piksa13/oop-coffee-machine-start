@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Dunder Methods/.idea/Dunder Methods.iml" filepath="$PROJECT_DIR$/../../Dunder Methods/.idea/Dunder Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Exercise Files/.idea/Exercise Files.iml" filepath="$PROJECT_DIR$/../../Exercise Files/.idea/Exercise Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../OOP_playground/.idea/OOP_playground.iml" filepath="$PROJECT_DIR$/../../OOP_playground/.idea/OOP_playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../appium-playground/.idea/appium-playground.iml" filepath="$PROJECT_DIR$/../../appium-playground/.idea/appium-playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop-coffee-machine-start.iml" filepath="$PROJECT_DIR$/.idea/oop-coffee-machine-start.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pytest_playground/.idea/pytest_playground.iml" filepath="$USER_HOME$/PycharmProjects/pytest_playground/.idea/pytest_playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../sorting-algorithms/.idea/sorting-algorithms.iml" filepath="$PROJECT_DIR$/../../sorting-algorithms/.idea/sorting-algorithms.iml" />
+    </modules>
+  </component>
+</project>
